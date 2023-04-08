@@ -5,15 +5,14 @@
 <p><a href="https://alura-books-three-mu.vercel.app/" target="_blank">🔗Clique aqui</a></p>
 
 ## Sobre o projeto
-Este projeto de landing page, uma página web que tem como objetivo principal atrair visitantes para adquirirem um produtos ou serviços do Hotel Paraíso.
+Este é um projeto de landingpage, página web que tem como objetivo principal atrair visitantes para adquirirem um produtos ou serviços do Hotel Paraíso.
 
-## 📌 Layout Mobile
-![Mobile](https://user-images.githubusercontent.com/81397233/226143703-d667367a-1a6b-4743-91a1-1cb4602b7346.png)
+## 📌 screenshots
+![Hotel paraíso](https://user-images.githubusercontent.com/81397233/230744592-5914915d-9225-4e1c-b9d2-ef941b6df712.png)
 
-## 📌Layout Tablet 
-![Tablet](https://user-images.githubusercontent.com/81397233/226143702-72a2cf82-f7c6-4c77-a0ef-bdecd33adf59.png)
-## 📌 Layout Desktop
-![Desktop](https://imgur.com/6GsjQvJ.png)
+![Hotel Paraíso 02](https://user-images.githubusercontent.com/81397233/230744690-0f8ff803-5cb5-46dc-a435-5070c2cc1e6c.png)
+
+![Hotel paraíso 03](https://user-images.githubusercontent.com/81397233/230744699-271b3f49-de63-4368-bce5-2e4ce80724c8.png)
 
 ## Tecnologias utilizadas
 ### Front end
