@@ -2,7 +2,7 @@
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/carllos-alberto/Hotel-Para-so/blob/master/LICENCE) 
 
 ## Link de acesso a página
-<p><a href="https://alura-books-three-mu.vercel.app/" target="_blank">🔗Clique aqui</a></p>
+<p><a href="https://hotel-para-lzltfu76s-carllos-alberto.vercel.app/" target="_blank">🔗Clique aqui</a></p>
 
 ## Sobre o projeto
 Este é um projeto de landing page, página web que tem como objetivo principal atrair visitantes para adquirirem um produtos ou serviços do Hotel Paraíso.
