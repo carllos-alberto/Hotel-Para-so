@@ -1,5 +1,5 @@
 # Hotel Paraíso 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/carllos-alberto/Alura__Books/blob/master/licence) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/carllos-alberto/Hotel-Para-so/blob/master/LICENCE) 
 
 ## Link de acesso a página
 <p><a href="https://alura-books-three-mu.vercel.app/" target="_blank">🔗Clique aqui</a></p>
