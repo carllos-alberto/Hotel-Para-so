@@ -5,7 +5,7 @@
 <p><a href="https://alura-books-three-mu.vercel.app/" target="_blank">🔗Clique aqui</a></p>
 
 ## Sobre o projeto
-Este é um projeto de landingpage, página web que tem como objetivo principal atrair visitantes para adquirirem um produtos ou serviços do Hotel Paraíso.
+Este é um projeto de landing page, página web que tem como objetivo principal atrair visitantes para adquirirem um produtos ou serviços do Hotel Paraíso.
 
 ## 📌 screenshots
 ![Hotel paraíso](https://user-images.githubusercontent.com/81397233/230744592-5914915d-9225-4e1c-b9d2-ef941b6df712.png)
